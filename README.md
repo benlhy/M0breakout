@@ -11,5 +11,6 @@ Both companies have provided tools to create their bootloaders. However do note 
 2. https://github.com/adafruit/Adafruit-Feather-M0-Basic-Proto-PCB
 3. https://github.com/sparkfun/SAMD21_Dev_Breakout
 4. https://github.com/sparkfun/SAMD21_Mini_Breakout
+
 # Thanks
 Adafruit and Sparkfun invests time and resources in providing open designs. This project would not have been possible without their guides. Support Adafruit and Sparkfun and open-source hardware by purchasing products from them!
